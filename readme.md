@@ -16,6 +16,16 @@ Este repositorio se utiliza para aprender y practicar **Git** y **control de ver
 
 ---
 
+## Compañeros de clase
+
+| NOMBRE                | GITHUB                                   |
+|-----------------------|-------------------------------------------|
+| Ismael Catalá Gil     | https://github.com/elrincondeisma         |
+| Iker Martínez Velasco | https://github.com/moimenta84             |
+| imbarreraIES          | https://github.com/imbarreraIES           |
+
+---
+
 ## Uso
 
 Clonar el repositorio:
